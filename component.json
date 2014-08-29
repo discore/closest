@@ -1,6 +1,6 @@
 {
   "name": "closest",
-  "description": "Find the closest ancestor matching a selector string",
+  "description": "DEPRECATED use https://github.com/component/closest ",
   "version": "0.1.3",
   "repo": "discore/closest",
   "dependencies": {
