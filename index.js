@@ -1,5 +1,5 @@
 var matches = require('matches-selector')
-
+console.log("DEPRECATED use https://github.com/component/closest");
 module.exports = function (element, selector, checkYoSelf, root) {
   element = checkYoSelf ? {parentNode: element} : element
 
